@@ -53,6 +53,8 @@ ein kleines Blümelein
 
 Und das heißt: Erika.
 
+lmao
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
