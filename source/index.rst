@@ -56,6 +56,22 @@ Und das heißt: Erika.
 lmao, ok enough with the swastika jokes
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :caption: Introduction
+
+   chapter1
+   chapter2
+
+.. toctree::
+   :caption: Main Documentation
+
+   chapter3
+   chapter4
+
+.. toctree::
+   :caption: Appendix
+
+   chapter5
+
+
+
 
