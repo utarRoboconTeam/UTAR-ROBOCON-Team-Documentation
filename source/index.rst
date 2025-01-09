@@ -53,7 +53,7 @@ ein kleines Blümelein
 
 Und das heißt: Erika.
 
-lmao
+lmao, ok enough with the swastika jokes
 
 .. toctree::
    :maxdepth: 2
