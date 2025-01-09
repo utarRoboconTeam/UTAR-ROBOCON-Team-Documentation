@@ -3,14 +3,35 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-UTAR_ROBOCON_Team_Documentation documentation
+UTAR ROBOCON Team Documentation
 =============================================
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
+Welcome to UTAR ROBOCON Team Documentation website!
 
-Erika.
+Auf der Heide blüht
+ein kleines Blümelein
+Und das heißt: Erika.
+Heiß von hunderttausend
+kleinen Bienelein
+Wird umschwärmt Erika.
+Denn ihr Herz ist voller Süßigkeit,
+Zarter Duft entströmt dem Blütenkleid
+Auf der Heide blüht
+ein kleines Blümelein
+Und das heißt: Erika.
+
+
+In der Heimat wohnt
+ein kleines Mägdelein
+Und das heißt: Erika.
+Dieses Mädel ist mein treues Schätzelein
+Und mein Glück, Erika.
+Wenn das Heidekraut rot-lila blüht,
+Singe ich zum Gruß ihr dieses Lied.
+Auf der Heide blüht
+ein kleines Blümelein
+
+Und das heißt: Erika.
 
 .. toctree::
    :maxdepth: 2
