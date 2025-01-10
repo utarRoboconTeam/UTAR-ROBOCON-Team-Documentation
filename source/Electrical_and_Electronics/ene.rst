@@ -5,7 +5,13 @@ Introduction
 ############
 
 Software used
-=============
+#############
+
+EasyEDA
+=======
+
+Hardware used
+#############
 
 Power Supply
 ============

@@ -5,7 +5,6 @@
 
 Welcome to UTAR ROBOCON Team Documentation!
 ===========================================
-
 This website shares the technology and techniques that UTAR ROBOCON Team uses to build, program, and control robots for competitions!
 
 .. toctree::
