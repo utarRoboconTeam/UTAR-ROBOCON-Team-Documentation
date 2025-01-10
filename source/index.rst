@@ -7,9 +7,12 @@ Welcome to UTAR ROBOCON Team Documentation!
 ===========================================
 This website shares the technology and techniques that UTAR ROBOCON Team uses to build, program, and control robots for competitions!
 
+.. image:: Media/Images/logo.png
+   :alt: UTAR ROBOCON Team logo
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Contents
 
    Contents/Mechanical/mech
    Contents/Fabrication/fab
@@ -19,7 +22,7 @@ This website shares the technology and techniques that UTAR ROBOCON Team uses to
 
 .. toctree::
    :maxdepth: 2
-   :caption: Team Portfolio:
+   :caption: Team Portfolio
 
    Team_Portfolio/portfolio
 

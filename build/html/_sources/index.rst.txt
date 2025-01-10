@@ -3,59 +3,24 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-UTAR ROBOCON Team Documentation
-=============================================
-
-Welcome to UTAR ROBOCON Team Documentation website!
-
-Auf der Heide blüht
-
-ein kleines Blümelein
-
-Und das heißt: Erika.
-
-Heiß von hunderttausend
-
-kleinen Bienelein
-
-Wird umschwärmt Erika.
-
-Denn ihr Herz ist voller Süßigkeit,
-
-Zarter Duft entströmt dem Blütenkleid
-
-Auf der Heide blüht
-
-ein kleines Blümelein
-
-Und das heißt: Erika.
-
-
-
-In der Heimat wohnt
-
-ein kleines Mägdelein
-
-Und das heißt: Erika.
-
-Dieses Mädel ist mein treues Schätzelein
-
-Und mein Glück, Erika.
-
-Wenn das Heidekraut rot-lila blüht,
-
-Singe ich zum Gruß ihr dieses Lied.
-
-Auf der Heide blüht
-
-ein kleines Blümelein
-
-
-Und das heißt: Erika.
-
-lmao
+Welcome to UTAR ROBOCON Team Documentation!
+===========================================
+This website shares the technology and techniques that UTAR ROBOCON Team uses to build, program, and control robots for competitions!
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
+   Contents/Mechanical/mech
+   Contents/Fabrication/fab
+   Contents/Electrical_and_Electronics/ene
+   Contents/Software/soft
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Team Portfolio:
+
+   Team_Portfolio/portfolio
+
 
