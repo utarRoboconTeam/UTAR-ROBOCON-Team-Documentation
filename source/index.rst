@@ -3,9 +3,19 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+Welcome to UTAR ROBOCON Team Documentation!
+===========================================
+
+This website shares the technology and techniques that UTAR ROBOCON Team uses to build, program, and control robots for competitions!
+
 .. toctree::
    :maxdepth: 2
-   :caption: Introduction
+   :caption: Contents:
+
+   Mechanical/mech
+   Fabrication/fab
+   Electrical_and_Electronics/ene
+   Software/soft
 
 Topic Title
 ###########
@@ -51,21 +61,6 @@ Intro sentence.
 #. Step 3.
 
 Following the steps, you should add the result and any follow-up tasks needed.
-
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Main Documentation
-
-   chapter3
-   chapter4
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Appendix
-
-   chapter5
-
 
 
 
