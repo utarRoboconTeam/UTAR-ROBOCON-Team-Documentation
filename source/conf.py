@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'UTAR_ROBOCON_Team_Documentation'
-copyright = '2025, UTAR_ROBOCON_Team'
-author = 'UTAR_ROBOCON_Team'
+project = 'UTAR ROBOCON Team'
+copyright = '2025, UTAR ROBOCON Team'
+author = 'UTAR ROBOCON Team'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
