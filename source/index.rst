@@ -11,10 +11,10 @@ This website shares the technology and techniques that UTAR ROBOCON Team uses to
    :maxdepth: 2
    :caption: Contents:
 
-   Mechanical/mech
-   Fabrication/fab
-   Electrical_and_Electronics/ene
-   Software/soft
+   Contents/Mechanical/mech
+   Contents/Fabrication/fab
+   Contents/Electrical_and_Electronics/ene
+   Contents/Software/soft
 
 
 .. toctree::
