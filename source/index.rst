@@ -3,6 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Introduction
+
 Example Topic
 ###########
 
@@ -14,12 +18,7 @@ Welcome to UTAR ROBOCON Team Documentation website!
 
 
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Introduction
 
-   chapter1
-   chapter2
 
 .. toctree::
    :maxdepth: 2
