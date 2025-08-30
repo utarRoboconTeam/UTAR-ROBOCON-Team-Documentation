@@ -13,7 +13,7 @@ All new juniors who are new to robotics must at least participate in this compet
 
 Our team joined in the Legged Robot Challenge and Rope Climbing Robot Challenge. 
 
-.. image:: Media/Images/urock.jpg
+.. image:: /Media/Images/urock.jpg
    :alt: UROCK Team
 
 
@@ -29,6 +29,10 @@ You can find more information about it in this `website <https://mranti.my/happe
 
 2 teams were sent for the competition and both teams managed to reach top 8 and achieved consolation prizes. More information can be found `here <https://news.utar.edu.my/awards/2025/Mar/20/02/02.html>`_.
 
+.. image:: /Media/Images/robofun.jpg
+   :alt: ROBOFUN Team
+
+
 ROBOCON
 =======
 ROBOCON is a face-paced robotics competition internationally founded by ABU (ASEAN Broadcasting Unit) and coorganized by NHK Japan, with teams competing for completion of mission tasks to achieve highest scores, shortest completion times, or robust robot performance. The competition mainly focuses on robot automation and mechanism designs to solve challenging tasks in each year's mission.
@@ -38,6 +42,12 @@ Each year's theme and mission tasks are based on the organizing coutry's culture
 Our team competed in the 2022 and 2023 season and managed to reach top 8 teams and received the Best Team Award in the 2023 season. More information can be found `here <https://news.utar.edu.my/awards/2022/Nov/23/01/01.html>`_.
 
 Although the 2024 season was cancelled at the last minute, our team was able to showcase technologies used in our robots through exchange programs with USM, Sunway, UM, UPM, Monash, MMU Teams as well as UTM team.
+
+.. image:: /Media/Images/robocon2023.jpg
+   :alt: ROBOCON Team
+
+.. image:: /Media/Images/robocon2024.jpg
+   :alt: ROBOCUP Team
 
 ROBOCUP
 =======
@@ -74,3 +84,6 @@ On the last day, there will be a symposium where all teams are compulsory to pre
 You can find more information about the rules `here <https://github.com/robocupmalaysia/at-home-2025>`_ as well as ROBOCUP Malaysia competition `here <https://2025.robocup.org.my/>`_.
 
 Our team competed in ROBOCUP Malaysia 2024 and 2025, where we scored 1st place in @Home Edu category as well as Best Presentation and Best Paper Awards during the symposium.
+
+.. image:: /Media/Images/robocup2025.jpg
+   :alt: ROBOCUP Team
